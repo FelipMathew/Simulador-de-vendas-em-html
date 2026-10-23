@@ -73,5 +73,5 @@ Os valores e condições exibidos nos prints são fictícios.
 
 \## Autor
 
-Seu Nome - \[LinkedIn](cole-o-link-do-seu-perfil)
+
 
