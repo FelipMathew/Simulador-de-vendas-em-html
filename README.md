@@ -52,8 +52,9 @@ Google Apps Script (sem necessidade de domínio ou hospedagem paga).
 
 !\[Versão Python](imagens/print-python.png)
 
-!\[Versão HTML](imagens/print-html.png)
+!\[Versão HTML](imagens/print-1-html.png)
 
+!\[Versão HTML](imagens/print-2-html.png)
 
 
 \## Como usar
